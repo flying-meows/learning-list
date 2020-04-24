@@ -10,4 +10,4 @@ a simple checklist for whatever you want to learn, build, understand, explain, e
    - [ ] [WebRTC plugin for Flutter Mobile/Desktop/Web](https://github.com/cloudwebrtc/flutter-webrtc)
 
 # Best Practices
-According to this [migration guide](https://github.com/flutter/flutter_web/blob/master/docs/migration_guide.md), it is better to clone the mobile project for a web project.  
+According to this [migration guide](https://github.com/flutter/flutter_web/blob/master/docs/migration_guide.md), it is better to clone the mobile project for a web project. Omg, I forgot and didn't read that we can also checkout a branch 🤦‍♂️...
